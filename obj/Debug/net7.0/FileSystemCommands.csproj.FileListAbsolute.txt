@@ -1,0 +1,14 @@
+E:\project\FileSystemCommands\bin\Debug\net7.0\FileSystemCommands.exe
+E:\project\FileSystemCommands\bin\Debug\net7.0\FileSystemCommands.deps.json
+E:\project\FileSystemCommands\bin\Debug\net7.0\FileSystemCommands.runtimeconfig.json
+E:\project\FileSystemCommands\bin\Debug\net7.0\FileSystemCommands.dll
+E:\project\FileSystemCommands\bin\Debug\net7.0\FileSystemCommands.pdb
+E:\project\FileSystemCommands\obj\Debug\net7.0\FileSystemCommands.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\FileSystemCommands\obj\Debug\net7.0\FileSystemCommands.AssemblyInfoInputs.cache
+E:\project\FileSystemCommands\obj\Debug\net7.0\FileSystemCommands.AssemblyInfo.cs
+E:\project\FileSystemCommands\obj\Debug\net7.0\FileSystemCommands.csproj.CoreCompileInputs.cache
+E:\project\FileSystemCommands\obj\Debug\net7.0\FileSystemCommands.dll
+E:\project\FileSystemCommands\obj\Debug\net7.0\refint\FileSystemCommands.dll
+E:\project\FileSystemCommands\obj\Debug\net7.0\FileSystemCommands.pdb
+E:\project\FileSystemCommands\obj\Debug\net7.0\FileSystemCommands.genruntimeconfig.cache
+E:\project\FileSystemCommands\obj\Debug\net7.0\ref\FileSystemCommands.dll
